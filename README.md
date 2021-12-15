@@ -3,4 +3,4 @@
 This is public version of codes which I am working on.
 
 
-## First - let's try to use Git
+## First - let's try to use Git.
